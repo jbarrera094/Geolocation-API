@@ -2,6 +2,8 @@
 
 Este proyecto es una simple aplicación web que permite a los usuarios obtener información de geolocalización de una dirección IP. Utiliza la API pública de [freeipapi.com](https://freeipapi.com/) para recuperar los datos de geolocalización en formato JSON y mostrarlos en la página web.
 
+![screenshot page](./geolocation_api_shot.webp)
+
 ## Características
 
 - Permite a los usuarios ingresar una dirección IP en un formulario.
@@ -30,11 +32,14 @@ Para ejecutar este proyecto, no se requieren dependencias adicionales, ya que to
 ```
 
 ## Persoanlización
+
 Puedes modificar el archivo index.html para adaptarlo a tus necesidades, como cambiar el estilo, agregar validaciones adicionales o integrar con otra API.
 
 ## Notas
+
 - Asegúrate de no abusar de la API gratuita de freeipapi.com para evitar ser bloqueado.
 - Este proyecto es una demostración básica, por lo que no incluye características avanzadas como manejo de errores robusto o soporte para múltiples idiomas.
 
 ## Licencia
+
 Este proyecto está bajo la Licencia MIT. Puedes ver más detalles en el archivo LICENSE que debería acompañar este proyecto.
